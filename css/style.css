@@ -20,7 +20,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-	background: url(../images/SF3.jpeg) no-repeat 0px 0;
+	background: url(../images/SF.jpg) no-repeat 0px 0;
     background-size: cover;
     padding: 1em 0 5em;
 }
@@ -67,7 +67,7 @@ body{
     font-weight: 700;
     letter-spacing: 2px;
 }
-.w3ls-banner-left-info p{
+.w3ls-banner-left-info p {
     font-size: .9em;
     margin: 1em 0 0 0;
     color: #cecece;
